@@ -1,5 +1,7 @@
 # Proyecto de Optimización de Talento
 
+https://github.com/Paulamc1695/proyecto_da_promo_J_modulo_3
+
 ### Equipo Insight Seekers S.L
 
 En un entorno empresarial competitivo, la toma de decisiones fundamentadas es clave para el éxito a largo plazo. La satisfacción y retención de empleados son factores cruciales para cualquier organización, ya que impactan la productividad y rentabilidad. Con el fin de reducir la rotación de personal y aumentar la satisfacción laboral, ABC Corporation nos ha contratado para llevar a cabo un proyecto de análisis de datos y experimentación A/B.
