@@ -12,7 +12,6 @@ Nuestro objetivo es identificar los factores que influyen en estos aspectos y pr
 - Andrea Gonzalez
 - Paula Martínez Cantero
 
-![imagen_logo](logo.jpeg)
 
 ## 🏢 ¿Quién es ABC Corporation?
 
